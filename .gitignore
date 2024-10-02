@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# ignora o arquivo de verificação de integridade
+kubectl.sha256
